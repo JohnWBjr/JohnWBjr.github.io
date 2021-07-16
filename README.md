@@ -1,2 +1,2 @@
 # JohnWBjr.github.io
-Test repository for Pages
+Test repository for GitHub Pages
