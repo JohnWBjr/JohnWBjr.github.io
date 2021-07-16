@@ -1,0 +1,7 @@
+# Emacs compiled and backup files
+*~
+
+# macOS generated files
+.DS_Store
+.DS_Store?
+._*
